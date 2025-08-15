@@ -1,0 +1,6 @@
+---
+name: paywall IT News Sites
+---
+*://atmarkit.itmedia.co.jp/*
+*://news.mynavi.jp/*
+*://xtech.nikkei.com/*
