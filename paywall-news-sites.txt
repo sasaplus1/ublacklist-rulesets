@@ -1,0 +1,11 @@
+---
+name: paywall news sites
+---
+*://asahi.com/*
+*://nikkei.com/*
+*://mainichi.jp/*
+*://sankei.com/*
+*://jiji.com/*
+*://toyokeizai.net/*
+*://diamond.jp/*
+*://newspicks.com/*

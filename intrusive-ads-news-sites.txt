@@ -1,0 +1,5 @@
+---
+name: intrusive ads news sites
+---
+*://fnn.jp/*
+*://gendai.media/*
