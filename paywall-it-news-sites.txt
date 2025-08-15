@@ -1,5 +1,5 @@
 ---
-name: paywall IT News Sites
+name: paywall IT news sites
 ---
 *://atmarkit.itmedia.co.jp/*
 *://news.mynavi.jp/*
